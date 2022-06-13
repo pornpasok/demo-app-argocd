@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: pornpasok/demo-app-argocd:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 3000
